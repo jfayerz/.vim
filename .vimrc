@@ -1,4 +1,4 @@
-set packpath+=~/.vim/pack/
+set packpath=/home/mcshoggoth/.vim/pack/
 
 set ts=4
 set nu

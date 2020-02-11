@@ -1,3 +1,12 @@
 [submodule "pack/thirdparty/start/vim-javascript"]
 	path = pack/thirdparty/start/vim-javascript
 	url = https://github.com/pangloss/vim-javascript
+[submodule "pack/thirdparty/start/vim-jsx"]
+	path = pack/thirdparty/start/vim-jsx
+	url = https://github.com/mxw/vim-jsx
+[submodule "pack/thirdparty/start/vim-polyglot"]
+	path = pack/thirdparty/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "pack/thirdparty/start/ale"]
+	path = pack/thirdparty/start/ale
+	url = https://github.com/dense-analysis/ale
